@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado por la ciberseguridad ofensiva y actualmente estoy en el camino para obtener el OSCP y BSCP
+Bienvenido a mi perfil de GitHub
 
 ## Sobre mí 🚀
 
