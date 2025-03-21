@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio! 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la ciberseguridad y actualmente estoy en el camino para obtener mis certificaciones OSCP y BSCP. Aquí encontrarás algunos de mis proyectos personales y contribuciones a la comunidad
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la ciberseguridad y actualmente estoy en el camino para obtener mis certificaciones OSCP y BSCP. Aquí encontrarás mis proyectos personales y contribuciones a la comunidad
 
 ## Sobre mí 🚀
 
@@ -38,6 +38,8 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando
 - **[httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git)** - Escáner de puertos que utiliza proxies HTTP
 
 ## Estadísticas de GitHub 📊
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Justice-Reaper&theme=radical)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Justice-Reaper&show_icons=true&theme=radical)
 
