@@ -31,7 +31,7 @@ Actualmente estoy preparándome para las siguientes certificaciones
 Aquí tienes algunos de los proyectos en los que he estado trabajando
 
 - **[Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io)** -  Mi blog personal donde subo writeups de Portswigger y HackTheBox
-- **[AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git)** - Script para automatizar la instalación y configuración de un entorno Bspwm en Kali Linux
+- **[AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git)** - Script para automatizar la instalación y configuración de un entorno BSPWM en Kali Linux
 - **[rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git)** - Herramienta para enumerar el Active Directory a través del servicio RPC
 - **[TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git)** - Proyecto de fin de grado de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 - **[graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git)** - Convierte el contenido de JSON a URL encode
