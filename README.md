@@ -2,11 +2,11 @@
 
 Bienvenido a mi perfil de GitHub, me presento, soy Sergio, tengo 23 años y desde siempre me ha gustado la informática pero no fue hasta hace 3 años que decidí dedicarme a este campo profesionalmente. Para iniciarme en este mundillo realicé el grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el cual construí aplicaciones para escritorio con Java y para móviles con Kotlin
 
-Posteriomente me decanté por la rama de ciberseguridad ofensiva, porque considero que es la más divertida. Me creé un blog personal donde comparto writeups y artículos sobre los laboratorios de Portswigger y de las máquinas de HackTheBox. Actualmente cuento con más de 230 artículos publicados, subo artículos contanstemente porque estoy preparándome para el OSCP y el BSCP
+Posteriomente me decanté por la rama de ciberseguridad ofensiva, porque considero que es la más divertida. Me creé un blog personal donde comparto writeups y artículos sobre los laboratorios de Portswigger y las máquinas de HackTheBox. Actualmente cuento con más de 230 artículos publicados, subo artículos contanstemente porque estoy preparándome para el OSCP y el BSCP
 
 Durante mi camino por este campo he ido encontrándome tareas que consideraba tediosas o repetitivas y por ello he creado varias herramientas empleando Bash y Python que automatizan estos procesos, permitiéndome enfocarme en lo importante
 
-Respecto a los idiomas, considero que el inglés es una skill básica en este campo, por lo cual, este último año me obtuve el B1 de Cambridge y actualmente me encuentro estudiando para obtener el B2
+Respecto a los idiomas, considero que el inglés es una skill básica en este campo, por lo cual, este último año obtuve el B1 de Cambridge y actualmente me encuentro estudiando para obtener el B2
 
 ## Sobre mí 🚀
 
