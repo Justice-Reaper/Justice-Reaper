@@ -24,7 +24,7 @@ Actualmente estoy preparándome para las siguientes certificaciones
 ## Idiomas 🌍
 
 - **Español** - Nativo
-- **Inglés** - Nivel B1 (actualmente preparándome para el B2 de Cambridge)
+- **Inglés** - Nivel B1 (actualmente preparándome el B2 de Cambridge)
 
 ## Proyectos Destacados 🌟
 
