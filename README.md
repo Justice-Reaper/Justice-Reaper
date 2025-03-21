@@ -34,7 +34,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando
 - **[AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git)** - Script para automatizar la instalación y configuración de un entorno BSPWM en Kali Linux
 - **[rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git)** - Herramienta para enumerar el Active Directory a través del servicio RPC
 - **[TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git)** - Proyecto de fin de grado de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-- **[graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git)** - Convierte el contenido de JSON a URL encode
+- **[graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git)** - convierte un JSON de GraphQL en un formato URL encoded
 - **[httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git)** - Escáner de puertos que utiliza proxies HTTP
 
 ## Estadísticas de GitHub 📊
