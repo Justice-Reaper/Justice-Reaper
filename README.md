@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio! 👋
 
-Bienvenido a mi perfil de GitHub. Me encanta la ciberseguridad y creo contenido sobre ella en mi blog personal, actualmente estoy preparándome para el OSCP y el BSCP. Además de ello, estoy preparándome el B2 de inglés, porque considero que es una skill básica en este campo. He creado varias herramientas interesantes con el fin de automatizar ciertos procesos tediosos, espero que te gusten 😄
+Bienvenido a mi perfil de GitHub. Me encanta la ciberseguridad y creo contenido sobre ella en mi blog personal, actualmente estoy preparándome para el OSCP y el BSCP. Además de ello, estoy preparándome también para el B2 de inglés, porque considero que es una skill básica en este campo. También he creado varias herramientas interesantes con el fin de automatizar ciertos procesos tediosos, espero que te gusten 😄
 
 ## Sobre mí 🚀
 
