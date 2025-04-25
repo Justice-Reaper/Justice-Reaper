@@ -2,11 +2,11 @@
 
 Hey there! I'm Sergio, a 23-year-old cybersecurity enthusiast. I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an associate degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
 
-Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
+Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles while maintaining a regular posting schedule as I prepare for my OSCP and BSCP certification
 
-Working in this field, I've encountered some repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
+Throughout my journey in this field, I’ve encountered tasks that I found tedious or repetitive. To solve this, I developed some tools using Bash and Python to automate these processes, allowing me to focus on what truly matters
 
-I strongly believe that English is essential in this industry. I earned my Cambridge B1 certificate last year and I'm currently working toward my B2
+When it comes to languages, I see English as essential in this field. That’s why I earned my Cambridge B1 certificate last year, and I’m now working toward my B2
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
