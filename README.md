@@ -9,11 +9,11 @@ Along the way, I've automated repetitive tasks using Bash and Python to streamli
 As for languages, I believe English is essential in this field, so last year I earned my Cambridge B1 certification and I am now working toward my B2
 
 ## About Me 🚀
-- Currently sharpening my pentesting skills
-- Free time = hitting the gym and gaming
-- Open to job opportunities
-- Find my resume, blog, and socials on [Linktree](https://linktr.ee/Justice_Reaper)
-- I love learning and always seek new challenges
+- 🔭 Currently sharpening my pentesting skills
+- 💪 Free time = hitting the gym and gaming
+- 💼 Open to job opportunities
+- 📫 Find my resume, blog, and socials on [Linktree](https://linktr.ee/Justice_Reaper)
+- ⚡ I love learning and always seek new challenges
 
 ## Certifications 🎓
 Currently preparing for
