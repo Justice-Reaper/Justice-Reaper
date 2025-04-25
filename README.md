@@ -1,12 +1,12 @@
 # Welcome to My GitHub! 👋
 
-Hey there! I'm Sergio, a 23-year-old cybersecurity enthusiast. I've always loved tech, but it wasn't until three years ago that I decided to turn it into a career. My journey started with an associate degree in Multiplatform Application Development (DAM), where I built desktop apps with Java and mobile apps with Kotlin
+Hey there! I'm Sergio, a 23-year-old cybersecurity enthusiast. I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an associate degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
 
-Later, I shifted my focus to pentesting because it's the most exciting part of cybersecurity for me. I run a personal blog where I share write-ups on PortSwigger labs and Hack The Box machines. To date, I've published over 230 articles and I continue to post regularly as I prepare for the OSCP and BSCP certifications
+Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
 
-Along the way, I've automated repetitive tasks using Bash and Python to streamline my workflow and focus on what really matters
+Working in this field, I've encountered some repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
 
-As for languages, I believe English is essential in this field, so last year I earned my Cambridge B1 certification and I am now working toward my B2
+I strongly believe that English is essential in this industry. I earned my Cambridge B1 certification last year and I'm currently working toward my B2
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
