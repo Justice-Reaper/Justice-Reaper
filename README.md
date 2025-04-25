@@ -25,7 +25,7 @@ Currently preparing for
 
 ## Languages 🌍
 - Spanish – Native
-- English – B1 level (currently preparing for the Cambridge B2 exam)
+- English – B1 Preliminary (currently preparing for the B2 exam)
 
 ## Featured Projects 🌟
 Here are some of my key projects:
