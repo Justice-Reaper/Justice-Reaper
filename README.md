@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+# Welcome to my GitHub! 👋
 
 Hey there! I'm Sergio, a 23-year-old cybersecurity enthusiast. I’ve always been passionate about technology, so much so that three years ago I decided to make it my career. I started by earning an associate’s degree in Multiplatform Application Development (MAD), where I developed multiple desktop applications using Java and mobile apps with Kotlin
 
