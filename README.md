@@ -6,7 +6,7 @@ Later, I specialized in pentesting because I find it the most exciting area of c
 
 Working in this field, I've encountered some repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
 
-I strongly believe that English is essential in this industry. I earned my Cambridge B1 certification last year and I'm currently working toward my B2
+I strongly believe that English is essential in this industry. I earned my Cambridge B1 certificate last year and I'm currently working toward my B2
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
