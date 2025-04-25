@@ -28,7 +28,7 @@ Currently preparing for
 - English – B1 Preliminary (currently preparing for the B2 exam)
 
 ## Featured Projects 🌟
-Here are some of my key projects:
+Here are some of my key projects
 - [Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io) – My personal blog with PortSwigger & HackTheBox write-ups
 - [AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git) – Script to auto-install & configure BSPWM on Kali Linux
 - [rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git) – Tool for Active Directory enumeration via RPC
