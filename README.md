@@ -1,49 +1,42 @@
-# ¡Bienvenido a mi GitHub!👋
+# Welcome to My GitHub! 👋
 
-Me presento, soy Sergio, tengo 23 años y desde siempre me ha gustado la informática pero no fue hasta hace 3 años que decidí dedicarme a este campo profesionalmente. Para iniciarme en este mundillo realicé el grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el cual construí aplicaciones para escritorio con Java y para móviles con Kotlin
+Hey there! I'm Sergio, a 23-year-old cybersecurity enthusiast. I've always loved tech, but it wasn't until three years ago that I decided to turn it into a career. My journey started with an associate degree in Multiplatform Application Development (DAM), where I built desktop apps with Java and mobile apps with Kotlin
 
-Posteriomente me decanté por la rama de ciberseguridad ofensiva, porque considero que es la más divertida. Me creé un blog personal donde comparto writeups y artículos sobre los laboratorios de Portswigger y las máquinas de HackTheBox. Actualmente cuento con más de 230 artículos publicados, subo artículos contanstemente porque estoy preparándome para el OSCP y el BSCP
+Later, I shifted my focus to pentesting because it's the most exciting part of cybersecurity for me. I run a personal blog where I share write-ups on PortSwigger labs and Hack The Box machines. To date, I've published over 230 articles and I continue to post regularly as I prepare for the OSCP and BSCP certifications
 
-Durante mi camino por este campo he ido encontrándome tareas que consideraba tediosas o repetitivas y por ello he creado varias herramientas empleando Bash y Python que automatizan estos procesos, permitiéndome enfocarme en lo importante
+Along the way, I've automated repetitive tasks using Bash and Python to streamline my workflow and focus on what really matters
 
-Respecto a los idiomas, considero que el inglés es una skill básica en este campo, por lo cual, este último año obtuve el B1 de Cambridge y actualmente me encuentro estudiando para obtener el B2
+As for languages, I believe English is essential in this field, so last year I earned my Cambridge B1 certification and I am now working toward my B2
 
-## Sobre mí 🚀
+## About Me 🚀
+- Currently sharpening my pentesting skills
+- Free time = hitting the gym and gaming
+- Open to job opportunities
+- Find my resume, blog, and socials on [Linktree](https://linktr.ee/Justice_Reaper)
+- I love learning and always seek new challenges
 
-- 🔭 Actualmente estoy trabajando en mejorar mis habilidades como pentester
-- 💪 Mi tiempo libre se lo dedico gimnasio y a los videojuegos
-- 💼 Actualmente me encuentro en búsqueda de empleo
-- 📫 En [Linktree](https://linktr.ee/Justice_Reaper) encontrarás mis datos de contacto, currículum, blog personal y redes sociales
-- ⚡ Me encanta aprender cosas nuevas y siempre estoy buscando nuevos desafíos
+## Certifications 🎓
+Currently preparing for
+- OSCP (Offensive Security Certified Professional)
+- BSCP (Burp Suite Certified Practitioner)
 
-## Certificaciones 🎓
+## Education 📜
+- Multiplatform Application Development (DAM)
 
-Actualmente estoy preparándome para las siguientes certificaciones
+## Languages 🌍
+- Spanish – Native
+- English – B1 level (currently preparing for the Cambridge B2 exam)
 
-- **OSCP (Offensive Security Certified Professional)**
-- **BSCP (Burp Suite Certified Practitioner)**
+## Featured Projects 🌟
+Here are some of my key projects:
+- [Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io) – My personal blog with PortSwigger & HTB write-ups
+- [AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git) – Script to auto-install & configure BSPWM on Kali Linux
+- [rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git) – Tool for Active Directory enumeration via RPC
+- [TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git) – Final project for my Multiplatform App Dev degree
+- [graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git) – Converts GraphQL JSON to URL-encoded format
+- [httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git) – Port scanner using HTTP proxies
 
-## Titulaciones 📜
-
-- **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-
-## Idiomas 🌍
-
-- **Español** - Nativo
-- **Inglés** - Nivel B1 (actualmente preparándome el B2 de Cambridge)
-
-## Proyectos Destacados 🌟
-
-Aquí tienes algunos de los proyectos en los que he estado trabajando
-
-- **[Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io)** -  Mi blog personal donde subo writeups de Portswigger y HackTheBox
-- **[AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git)** - Script para automatizar la instalación y configuración de un entorno BSPWM en Kali Linux
-- **[rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git)** - Herramienta para enumerar el Active Directory a través del servicio RPC
-- **[TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git)** - Proyecto de fin de grado de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-- **[graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git)** - convierte un JSON de GraphQL en un formato URL encoded
-- **[httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git)** - Escáner de puertos que utiliza proxies HTTP
-
-## Estadísticas de GitHub 📊
+## GitHub Stats 📊
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Justice-Reaper&theme=radical)
 
