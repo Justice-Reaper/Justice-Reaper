@@ -30,7 +30,7 @@ Currently preparing for
 ## Languages 🌍
 
 - Spanish – Native
-- English – B1 F (I'm currently preparing for the B2 exam)
+- English – Cambridge B2 First
 
 ## Featured Projects 🌟
 
